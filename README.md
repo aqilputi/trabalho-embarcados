@@ -1,4 +1,4 @@
-# SSC0740---Sistemas-Embarcados-filtro-passa-alta
+# SSC0740---Sistemas-Embarcados-YOLOv3-TensorFlowLite
 Trabalho de Embarcados, Análise e aplicação de modelos neurais inseridos no contexto de sistemas embarcados
 
 
